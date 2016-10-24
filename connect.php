@@ -3,14 +3,14 @@
 if(!defined('INCLUDE_CHECK')) die('You don't have access!');
 
 
-/* Конфигурация базы данных */
+
 
 $db_host		= 'localhost';
 $db_user		= '';
 $db_pass		= '';
 $db_database	= ''; 
 
-/* Конец секции */
+
 
 
 
